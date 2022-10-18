@@ -40,7 +40,7 @@ Submission of home tasks is as follows:
 - Setup and work with a common set of development tools we will use for the whole course
 - Develop and deploy web applications as learning and preparation for the teamwork in Section 2
 
-### Week 1 [↗](https://digital-product-jam.github.io/01/)
+### Week 1 [↗](https://digital-product-jam.vercel.app/01/)
 
 *26th October, 2022*
 
@@ -65,7 +65,7 @@ Students will start from a template to develop and deploy their own "Profile" pa
 
 The task builds on the workshop done in class, and additional home reading on fundamental web technologies.
 
-### Week 2 [↗](https://digital-product-jam.github.io/02/)
+### Week 2 [↗](https://digital-product-jam.vercel.app/02/)
 
 *2nd November, 2022*
 
@@ -92,7 +92,7 @@ Students will finish the data application started in the class workshop.
 
 Additionally, we provide home reading and walkthroughs for the more advanced "libraries" and "frameworks" that we will start using from next week.
 
-### Week 3 [↗](https://digital-product-jam.github.io/03/)
+### Week 3 [↗](https://digital-product-jam.vercel.app/03/)
 
 *9th November, 2022*
 
@@ -117,7 +117,7 @@ Students will finalize a key area of their application - authentication - in a f
 
 Additionally, we provide home reading and walkthroughs for state management in React.
 
-### Week 4 [↗](https://digital-product-jam.github.io/04/)
+### Week 4 [↗](https://digital-product-jam.vercel.app/04/)
 
 *16th November, 2022*
 
@@ -138,7 +138,7 @@ Finalize your application for review, closing off this stage of the course. We w
 - Access control
 - Responsive design
 
-### Week 5 [↗](https://digital-product-jam.github.io/05/)
+### Week 5 [↗](https://digital-product-jam.vercel.app/05/)
 
 *23th November, 2022*
 
