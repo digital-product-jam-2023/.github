@@ -6,7 +6,7 @@ This repository holds Presentations and other learning materials for the Digital
 
 We all engage with digital products in daily life: we work with them, we express ourselves with them, we communicate through them, we discover information with them.
 
-Students in the course will work in front of clients from the "real world" to learn about their audience as well as their business needs and problems, in order to present solutions in the form of digital products, which they will design, development, and deploy.
+Students in the course will work in front of clients from the "real world" to learn about their audience as well as their business needs, in order to present solutions in the form of digital products, which they will design, development, and deploy.
 
 Students will work in teams of designers and developers and will experience product development processes, team work, and specifically dynamics between developers and designers in developing working products - just like in product development in the software industry.
 
@@ -18,6 +18,17 @@ Students will work in teams of designers and developers and will experience prod
 - (Development stream) The application of web technologies towards the delivery of a working product
 - (Design stream) The application of user interface design, branding and packaging toward the delivery of a working product
 
+# Submitting home tasks
+
+Submission of home tasks is as follows:
+
+- All code must be commited to *your* code repository for this application (which is either a "copy" or a "fork" of the original), hosted on GitHub
+- The application must be deployed and accessible via a public URL (this will happen automatically if Vercel is configured correctly for your application)
+- On completion submit your task [here](https://github.com/digital-product-jam/tasks/issues/2) by creating a new comment with:
+  - the URL to your GitHub repository
+  - the public URL of the working application
+- All tasks must be submitted by end of day on the Tuesday before the class (class is on Wednesday)
+
 # Course outline
 
 ## Section 1: Development Fundamentals
@@ -27,26 +38,17 @@ Students will work in teams of designers and developers and will experience prod
 - Learn about the web as a platform for digital products
 - Learn about the process of product development
 - Setup and work with a common set of development tools we will use for the whole course
-- Develop and deploy simple apps as a way to learn about how web development works, and as preparation for the main section of the course
+- Develop and deploy web applications as learning and preparation for the teamwork in Section 2
 
-**NOTE: home tasks**
-
-Every week in Section 1 of the course there is a home task which involves building and deploying an application. Submission of each of these tasks is as follows:
-
-- All code must be commited to *your* code repository (which is either a "copy" or a "fork" of the original) for this application, hosted on GitHub
-- The application must be deployed and accessible via a public URL (this will happen automatically if Vercel is configured correctly for your application)
-- On completion submit your task using the issue tracker, and include the URL to your GitHub repository and the public URL of the working application
-- All tasks must be submitted by end of day on the Tuesday before the class (class is on Wednesday)
-
-### Week 1 [↗](./weeks/01.md)
+### Week 1 [↗](https://digital-product-jam.github.io/01/)
 
 *26th October, 2022*
 
 #### 🪑 Presentation
 
-In the Digital Product Jam, students will experience working in teams - designers and developers - to plan, implement, and deploy working digital products for our collaborating organizations - a hand-picked selection of Israeli "social good" not-for-profits.
+In the Digital Product Jam, students will experience working in teams - designers and developers - to plan, implement, and deploy working digital products for our collaborating organizations - a selection of Israeli "social good" not-for-profits.
 
-Similarly to a real business environment, students will need to balance competing concerns that arise from working with a client, working in a team, and working with constraints like time and team abilities. Technical skills are required, but in no way sufficient, for delivering a digital product.
+Similarly to a real business environment, students will need to balance competing concerns that arise from working with a client, working in a team, and working with constraints like time. Technical skills are required, but in no way sufficient, for delivering a digital product.
 
 We will illustrate this broader picture of working on digital products in a business context, and focus on the fundamentals of how the course will be run and graded, who is teaching, and what actually will be taught in the course.
 
@@ -56,20 +58,20 @@ We will get all students setup with the development environment we require for t
 
 #### 🏠 Home
 
-Students will start from a template to develop and deploy their own "About Me" page. From the base we provide, students will make edits and enhancements that demonstrate:
+Students will start from a template to develop and deploy their own "Profile" page. From the base we provide, students will make edits and enhancements that demonstrate:
 
 - A working development environment
 - A rudimentary understanding of HTML, CSS, and JavaScript
 
 The task builds on the workshop done in class, and additional home reading on fundamental web technologies.
 
-### Week 2 [↗](./weeks/02.md)
+### Week 2 [↗](https://digital-product-jam.github.io/02/)
 
 *2nd November, 2022*
 
 #### 🪑 Presentation
 
-We are using the web as a delivery platform for our digital products in this course. But, what does that actually mean?
+We are using the web as a delivery platform for our digital products in this course. What does that actually mean?
 
 We will briefly review the history of the web in order to gain a basic understanding of the technologies we use to build web applications. Students will be exposed to fundamental web technologies, and shown how they are used to build applications via a series of demonstrations.
 
@@ -79,7 +81,7 @@ The purpose of the overview is to get a basic shared understanding of web techno
 
 Each student will build an application that takes a dataset and presents it to a visitor. We will provide a list of data sources to choose from. The application needs to:
 
-- Load data from a source into an internal representation
+- Load data from an external source into an "internal" representation
 - Render the data to the user interface, using some type of HTML structure
 - Enhance the presentation of the data using CSS
 - Allow some basic data interaction by the visitor
@@ -90,7 +92,7 @@ Students will finish the data application started in the class workshop.
 
 Additionally, we provide home reading and walkthroughs for the more advanced "libraries" and "frameworks" that we will start using from next week.
 
-### Week 3 [↗](./weeks/03.md)
+### Week 3 [↗](https://digital-product-jam.github.io/03/)
 
 *9th November, 2022*
 
@@ -115,7 +117,7 @@ Students will finalize a key area of their application - authentication - in a f
 
 Additionally, we provide home reading and walkthroughs for state management in React.
 
-### Week 4 [↗](./weeks/04.md)
+### Week 4 [↗](https://digital-product-jam.github.io/04/)
 
 *16th November, 2022*
 
@@ -136,7 +138,7 @@ Finalize your application for review, closing off this stage of the course. We w
 - Access control
 - Responsive design
 
-### Week 5 [↗](./weeks/05.md)
+### Week 5 [↗](https://digital-product-jam.github.io/05/)
 
 *23th November, 2022*
 
