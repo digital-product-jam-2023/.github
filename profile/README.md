@@ -6,7 +6,7 @@ This repository holds Presentations and other learning materials for the Digital
 
 We all engage with digital products in daily life: we work with them, we express ourselves with them, we communicate through them, we discover information with them.
 
-Students in the course will work in front of clients from the "real world" to learn about their audience as well as their business needs, in order to present solutions in the form of digital products, which they will design, development, and deploy.
+Students in the course will work in front of clients from the "real world" to learn about their audience as well as their business needs, in order to present solutions in the form of digital products, which they will design, develop, and deploy.
 
 Students will work in teams of designers and developers and will experience product development processes, team work, and specifically dynamics between developers and designers in developing working products - just like in product development in the software industry.
 
