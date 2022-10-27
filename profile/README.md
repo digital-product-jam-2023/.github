@@ -205,7 +205,7 @@ We will work interactively on an ideation sprint.
 
 Teams start work on their product decks and technical scope documents for the product solution they are working on.
 
-#### 🏠 Home
+##### 🏠 Home
 
 Each team needs to finalize their product ideation deck and technical scope documents by end of day Monday 12th December. These will be submitted to the "clients" ahead of the next class.
 
@@ -227,7 +227,11 @@ A workshop session foccused on defining an MVP and strategic narrative for a dig
 
 ##### 🏠 Home
 
-Teams should work together to lock down their product scope, via product ideation decks and technical documents. They should be able to come to the next class and be ready to start implementation work.
+Teams should work together to lock down their product scope, via product ideation decks and technical documents.
+
+Developers on each team get the basic skeleton of their project setup.
+
+Teams should be able to come to the next class and be ready to start implementation work.
 
 #### Week 9 - Holiday
 
