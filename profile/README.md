@@ -18,6 +18,10 @@ Students will work in teams of designers and developers and will experience prod
 - (Development stream) The application of web technologies towards the delivery of a working product
 - (Design stream) The application of user interface design, branding and packaging toward the delivery of a working product
 
+## Course discussion
+
+[The discussion forum for the course is here](https://github.com/digital-product-jam/tasks/discussions).
+
 ## Submitting assignments {#assignments}
 
 All assignments need to the submitted in the following way:
