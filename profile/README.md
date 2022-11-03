@@ -24,7 +24,7 @@ All assignments need to the submitted in the following way:
 
 - All code must be commited to *your own* code repository (which is either a "copy" or a "fork" of an original codebase for the assignment), hosted on GitHub
 - The application must be deployed and accessible via a public URL (this will happen automatically if Vercel is configured correctly for your application, but you should also verify on a per-assignment basis)
-- On completion submit your task [here](https://github.com/digital-product-jam/tasks/issues/2) by creating a new comment with:
+- On completion, submit your task by adding a comment with the following information to the open issue for the task [here](https://github.com/digital-product-jam/tasks/issues):
   - the URL to your GitHub repository
   - the public URL of the working application
 - All tasks must be submitted by end of day on the Tuesday before the class (class is on Wednesday)
