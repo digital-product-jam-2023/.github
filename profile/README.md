@@ -44,7 +44,7 @@ All assignments need to the submitted in the following way:
 - Setup and work with a common set of development tools we will use for the whole course
 - Develop and deploy web applications as learning and preparation for the teamwork in Section 2
 
-#### Lesson 1 [↗](https://digital-product-jam.vercel.app/01/)
+#### Lesson 1 [[slides ↗]](https://digital-product-jam.vercel.app/01/)
 
 *26th October, 2022* & *2nd November, 2022*
 
@@ -69,7 +69,7 @@ Students will start from a template to develop and deploy their own "Profile" pa
 
 The task builds on the workshop done in class, and additional home reading on fundamental web technologies.
 
-#### Lesson 2 [↗](https://digital-product-jam.vercel.app/02/)
+#### Lesson 2 [[slides ↗]](https://digital-product-jam.vercel.app/02/)
 
 *9th November, 2022*
 
@@ -96,7 +96,7 @@ Students will finish the data application started in the class workshop.
 
 Additionally, we provide home reading and walkthroughs for the more advanced "libraries" and "frameworks" that we will start using from next week.
 
-#### Lesson 3 [↗](https://digital-product-jam.vercel.app/03/)
+#### Lesson 3 [[slides ↗]](https://digital-product-jam.vercel.app/03/)
 
 *16th November, 2022*
 
@@ -123,7 +123,7 @@ Students will finish re-implementing their data application in the new framework
 
 We provide further home reading and walkthroughs for state management in React.
 
-#### Lesson 4 [↗](https://digital-product-jam.vercel.app/04/)
+#### Lesson 4 [[slides ↗]](https://digital-product-jam.vercel.app/04/)
 
 *23th November, 2022*
 
