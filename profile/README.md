@@ -44,9 +44,9 @@ All assignments need to the submitted in the following way:
 - Setup and work with a common set of development tools we will use for the whole course
 - Develop and deploy web applications as learning and preparation for the teamwork in Section 2
 
-#### Week 1 [↗](https://digital-product-jam.vercel.app/01/)
+#### Lesson 1 [↗](https://digital-product-jam.vercel.app/01/)
 
-*26th October, 2022*
+*26th October, 2022* & *2nd November, 2022*
 
 ##### 🪑 Presentation
 
@@ -69,9 +69,9 @@ Students will start from a template to develop and deploy their own "Profile" pa
 
 The task builds on the workshop done in class, and additional home reading on fundamental web technologies.
 
-#### Week 2 [↗](https://digital-product-jam.vercel.app/02/)
+#### Lesson 2 [↗](https://digital-product-jam.vercel.app/02/)
 
-*2nd November, 2022*
+*9th November, 2022*
 
 ##### 🪑 Presentation
 
@@ -96,13 +96,15 @@ Students will finish the data application started in the class workshop.
 
 Additionally, we provide home reading and walkthroughs for the more advanced "libraries" and "frameworks" that we will start using from next week.
 
-#### Week 3 [↗](https://digital-product-jam.vercel.app/03/)
+#### Lesson 3 [↗](https://digital-product-jam.vercel.app/03/)
 
-*9th November, 2022*
+*16th November, 2022*
 
 ##### 🪑 Presentation
 
-The vast majority of professional applications do not use "raw" HTML, CSS and JS, but rather use higher-level "libraries" and "frameworks". We will briefly discuss why this is the case, and then get into specifics with the technologies we will adopt for our work going forward. We will also review some of the tooling we have already seen (version control, CI/CD, issue tracking).
+The vast majority of professional applications do not use "raw" HTML, CSS and JS, but rather use higher-level "libraries" and "frameworks". We will briefly discuss why this is the case, and then get into specifics with the technologies we will adopt for our work going forward.
+
+Our tools for building apps are based on [React](https://reactjs.org). We will overview React Components and Hooks, and specifically, managing state in React, and see how it all fits in context with [Next.js](https://nextjs.org) and [Supabase](https://supabase.com).
 
 ##### 🏗 Workshop
 
@@ -117,46 +119,38 @@ We will start by **re-implementing** our existing data application in the new fr
 
 ##### 🏠 Home
 
-Students will finalize a key area of their application - authentication - in a form that is commited and deployed.
+Students will finish re-implementing their data application in the new framework. And, they will do an additional task of adding a contact form to learn how to work with a database from the application.
 
-Additionally, we provide home reading and walkthroughs for state management in React.
+We provide further home reading and walkthroughs for state management in React.
 
-#### Week 4 [↗](https://digital-product-jam.vercel.app/04/)
+#### Lesson 4 [↗](https://digital-product-jam.vercel.app/04/)
 
-*16th November, 2022*
+*23th November, 2022*
+
+_In this lesson we will start working with the design class._
 
 ##### 🪑 Presentation
 
-State management is one of the more complex aspects of web application development and there are a multitude of approaches. We will review and have some short demos of state management in the React ecosystem, with an emphasis on the types of scenarios we may encounter building an application around our data APIs. As part of this we will also introduce tools we can use to debug and verify application behavior.
+With the development class, we will continue on the subject of authentication, access control, and responsive design.
+
+We will then join the design class for introductions, and an overview of this next phase of the course.
 
 ##### 🏗 Workshop
 
-Students continue on their application. We will work with students to discuss challenges and approaches, and ensure the scope of work is something that can be finalized by next week.
+With the development class, we will work with students to discuss challenges and approaches around their data application, and ensure the scope of work is something that can be finalized by next week.
+
+With the merged class, we will have introductions and learn about scoping a product. We will use a "random startup generator" to seed ideas that we can experiemtn with.
 
 ##### 🏠 Home
 
-Finalize your application for review, closing off this stage of the course. We want to see meaningful usage of:
+Finalize your data application for review, closing off this stage of the course. We want to see meaningful usage of:
 
 - Working with a database
 - Authentication
 - Access control
 - Responsive design
 
-#### Week 5 [↗](https://digital-product-jam.vercel.app/05/)
-
-*23th November, 2022*
-
-> 📝 **Milestone**: Developers can build and deploy a web app using our tech stack, with integrations for user authentication, database access, and API access.
-
-##### 🪑 Presentation
-
-With the development class, we will review the last assignment, and do a recap over what we have learned so far.
-
-We will then join the design class for introductions, and an overview of this next phase of the course.
-
-##### 🏠 Home
-
-Students take a product idea from the random generator and write a one-two page implementation document - what high level functionality is needed, what integrations are needed, identify potential problems.
+Take a product idea from the random generator and write a one-two page implementation document - what high level functionality is needed, what integrations are needed, identify potential problems.
 
 ### Section 2: Ship a working product in a team
 
@@ -167,9 +161,11 @@ Students take a product idea from the random generator and write a one-two page 
 - Define a scope for the product solution, and the technical implementation of that scope, along with the design and user experience goals from the designers on the team
 - Build and deploy a working product
 
-#### Week 6
+#### Lesson 6
 
 *30th November, 2022*
+
+> 📝 **Milestone**: Developers can build and deploy a web app using our tech stack, with integrations for user authentication, database access, and API access.
 
 > 📝 **Milestone**: We meet our clients and teams are formed.
 
@@ -195,7 +191,9 @@ In preparation for that, the following needs to happen:
 - All students will be notified of their team, and the client the team will work with.
 - Each team prepares a document with ideas to bring to the next class, ready to start work.
 
-#### Week 7
+_Additionally, if the development class needs further time or guidance on using React, we will set tasks and allocate teacher availability for this._
+
+#### Lesson 7
 
 *7th December, 2022*
 
@@ -213,7 +211,7 @@ Teams start work on their product decks and technical scope documents for the pr
 
 Each team needs to finalize their product ideation deck and technical scope documents by end of day Monday 12th December. These will be submitted to the "clients" ahead of the next class.
 
-#### Week 8
+#### Lesson 8
 
 *14th December, 2022*
 
@@ -237,11 +235,11 @@ Developers on each team get the basic skeleton of their project setup.
 
 Teams should be able to come to the next class and be ready to start implementation work.
 
-#### Week 9 - Holiday
+#### Lesson 9 - Holiday
 
 *21st December, 2022*
 
-#### Week 10
+#### Lesson 10
 
 *28th December, 2022*
 
@@ -257,7 +255,7 @@ Teams start implementation work. Designers start on frontends (in a design tool 
 
 Team designers work to have a user interface prototype ready for next class. They have shared this with the developers on their team before class. Developers finalize any basic infrastructure/wiring if their app, ready to start work in frontend in the next class.
 
-#### Week 11
+#### Lesson 11
 
 *4th January, 2022*
 
@@ -277,7 +275,7 @@ Developers of each team work on implementing the product, starting with the inte
 
 Teams get back together for a status update on what progress each member made in last class. Any discrepancies or confusions about scope and implementation need to be addressed together. Furthe progress should be made on the implementation for demo in next class.
 
-#### Week 12
+#### Lesson 12
 
 *11th January, 2022*
 
@@ -295,7 +293,7 @@ Teams work together on their products. Teaching staff will work with teams to di
 
 ##### 🏠 Home
 
-#### Week 13
+#### Lesson 13
 
 *18th January, 2022*
 
@@ -305,7 +303,7 @@ Teams work together on their products. Teaching staff will work with teams to di
 
 ##### 🏠 Home
 
-#### Week 14
+#### Lesson 14
 
 *25th January, 2022*
 
