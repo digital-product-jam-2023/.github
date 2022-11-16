@@ -121,7 +121,7 @@ We will start by **re-implementing** our existing data application in the new fr
 
 Students will finish re-implementing their data application in the new framework. And, they will do an additional task of adding a contact form to learn how to work with a database from the application.
 
-We provide further home reading and walkthroughs for state management in React.
+We provide further home reading and walkthroughs for React and Next.js.
 
 #### Lesson 4 [[slides ↗]](https://digital-product-jam.vercel.app/04/)
 
