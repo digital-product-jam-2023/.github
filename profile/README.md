@@ -131,7 +131,7 @@ _In this lesson we will start working with the design class._
 
 ##### 🪑 Presentation
 
-With the development class, we will continue on the subject of authentication, access control, and responsive design.
+With the development class, we will continue on aspects of building an application with Next.js.
 
 We will then join the design class for introductions, and an overview of this next phase of the course.
 
@@ -143,14 +143,9 @@ With the merged class, we will have introductions and learn about scoping a prod
 
 ##### 🏠 Home
 
-Finalize your data application for review, closing off this stage of the course. We want to see meaningful usage of:
+Tasks on your data application.
 
-- Working with a database
-- Authentication
-- Access control
-- Responsive design
-
-Take a product idea from the random generator and write a one-two page implementation document - what high level functionality is needed, what integrations are needed, identify potential problems.
+With a team, take a product idea from the random generator and prepare a product deck.
 
 ### Section 2: Ship a working product in a team
 
