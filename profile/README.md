@@ -240,35 +240,44 @@ Teams should be able to come to the next class and be ready to start implementat
 
 ##### 🪑 Presentation
 
-A presentation on user flows and wireframes.
+For this week, designers and developers are working seperately. For developers, a presentation on Figma and handoff of design to development teams.
 
 ##### 🏗 Workshop
 
-Teams start implementation work. Designers start on frontends (in a design tool like Figma). Developers start setting up their project and building out any basic functionality (what data do we need, how do we get it, what fundamental user interactions are required, etc.). Discussion is important so that design and development efforts are in the same genral direction.
+We'll have open discussion on technical issues, scoping, organization of work. After any discussion, teams can work together on their solution.
+
+In general, by this stage of the course the developers need to be ready with:
+
+- What they need to build
+- How to go about building it ( and, have already mapped out what you dont yet know how to do )
+- A breakdown on how to split work with across their team
+- Good alignment with the designers on their team - expectation management, appropriate scope, must haves vs nice to haves
+
+For any aspects of the development that teams are unsure of how to tackle, they need to have written them up and shared with the teaching staff.
+
+Also, developers should have a code repository setup and start using the issue tracker of the repository to break down development tasks.
 
 ##### 🏠 Home
 
-Team designers work to have a user interface prototype ready for next class. They have shared this with the developers on their team before class. Developers finalize any basic infrastructure/wiring if their app, ready to start work in frontend in the next class.
+Continue with team meetings and progress on the final project.
 
 #### Lesson 11
 
 *4th January, 2022*
 
-> 📝 **Milestone**: First review of work in progress product solutions.
+> 📝 **Milestone**: Second review of work in progress product solutions.
 
 ##### 🪑 Presentation
 
-For this class the designers and developers will work seperately.
-
-Review of the home assignment for each team with some demos of current progress. Remainder of the class dedicated to implementation work.
+TBD
 
 ##### 🏗 Workshop
 
-Developers of each team work on implementing the product, starting with the interface prototypes from their designers. Teaching staff will work with teams to discuss challenges and approaches.
+TBD
 
 ##### 🏠 Home
 
-Teams get back together for a status update on what progress each member made in last class. Any discrepancies or confusions about scope and implementation need to be addressed together. Furthe progress should be made on the implementation for demo in next class.
+Continue with team meetings and progress on the final project.
 
 #### Lesson 12
 
@@ -278,15 +287,15 @@ Teams get back together for a status update on what progress each member made in
 
 ##### 🪑 Presentation
 
-Guest speaker.
-
-Review session.
+TBD
 
 ##### 🏗 Workshop
 
 Teams work together on their products. Teaching staff will work with teams to discuss challenges and approaches.
 
 ##### 🏠 Home
+
+Continue with team meetings and progress on the final project.
 
 #### Lesson 13
 
@@ -297,6 +306,8 @@ Teams work together on their products. Teaching staff will work with teams to di
 Teams work together on their products. Teaching staff will work with teams to discuss challenges and approaches.
 
 ##### 🏠 Home
+
+Continue with team meetings and progress on the final project.
 
 #### Lesson 14
 
